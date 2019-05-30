@@ -1,0 +1,4 @@
+# 实现高可用的Eureka Server
+# 需要修改host文件
+# 127.0.0.1    peer1
+# 127.0.0.1    peer2
